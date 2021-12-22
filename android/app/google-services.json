@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55155623362",
+    "project_id": "fictionapp-356b3",
+    "storage_bucket": "fictionapp-356b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55155623362:android:531c3096cceab996f5825b",
+        "android_client_info": {
+          "package_name": "com.fictionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55155623362-c8uhit73k053e58am8hriv2oq13ca4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPqklBvAiQYDqUO9OjPBudm35SB1UwAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55155623362-c8uhit73k053e58am8hriv2oq13ca4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
